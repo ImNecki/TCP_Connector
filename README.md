@@ -1,4 +1,4 @@
-How run this program:
+How to run this program:
 
 1. Download python and tcp_connector 
 2. Open CMD
